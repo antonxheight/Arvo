@@ -1,0 +1,15 @@
+The initial drawing was made as Multiple master with Postscript contours, in Fontlab.
+
+You can find Multiple master source in /Fontlab folder.
+Drawing had been scaled  to Truetype UPM box. 2048 units.
+
+Unfortunately gradually final files have distanced themselves from those files.
+I have used TTX tools to manipulate intermediate Truetype (.ttf files)
+And moreover corrected Truetype curves in VTT to be able to work on hints.
+
+Release versions in late november 2010 were
+Roman and italic v.104
+Bold cuts (roman and italic): v.105 (corrected mac indesign activation problem, naming tables)
+
+-----Key dimesnsions of
+Anton Koovit

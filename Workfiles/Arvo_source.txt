@@ -1,0 +1,32 @@
+The initial drawing was made as Multiple master with Postscript contours, in Fontlab.
+
+You can find Multiple master source in /Fontlab folder.
+Drawing had been scaled  to Truetype UPM box. 2048 units.
+
+Unfortunately gradually final files have distanced themselves from those files.
+I have used TTX tools to manipulate intermediate Truetype (.ttf files)
+And moreover corrected Truetype curves in VTT to be able to work on hints.
+
+Release versions in late november 2010 were
+Roman and italic v.104
+Bold cuts (roman and italic): v.105 (corrected mac indesign activation problem, naming tables)
+
+-----Vertical dimesnsions of fonts are
+Ascender 1556
+Caps 1516
+Descender -471
+xheight 1036
+
+hhea dimensions are so far:
+hhea Ascend 1968
+hhea Descend -506
+hhea linegap 55
+
+Typo Asc 1556
+Typodesc -471
+Typolinegap 110
+Winasc 1968
+Windesc -506
+(but there are some weird bugs on OSX with interlinear, i am puzzling with it)
+
+Anton Koovit
