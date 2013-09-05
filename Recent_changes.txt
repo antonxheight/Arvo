@@ -1,5 +1,12 @@
-Recent changes:
+Arvo 2.0.1
+06. September 2013
+Recent changes
+Added support to languages that use cyrillic script.
+Expanded latin range to Adobe Glyph List -3.
+Cleaned many truetype hints.
+Controlled hinting in smaller sizes (regular cuts start now from 9ppem).
+Added PANOSE classification numbers.
+Cleaned up character palette.
+And many more smaller bug fixes.
 
-Bold 1.05
-Some naming fileds made an error in Macintosh Adobe products
-Please use latest Bold cuts
+
